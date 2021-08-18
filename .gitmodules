@@ -1,6 +1,3 @@
 [submodule "lib/robotarm-library"]
 	path = lib/robotarm-library
 	url = git@github.com:bartgijs/robotarm-library.git
-[submodule "lib/embedded-std-utils"]
-	path = lib/embedded-std-utils
-	url = git@github.com:bartgijs/embedded-std-utils.git
